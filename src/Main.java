@@ -7,6 +7,7 @@ public class Main {
         System.out.println("1 задача");
 //1
 
+
         int[] massiv123 = new int[]{1, 2, 3};
 //2
         float[] massivDrobn = {1.57f, 7.654f, 9.986f};
